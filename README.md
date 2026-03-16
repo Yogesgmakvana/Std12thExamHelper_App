@@ -35,10 +35,7 @@ IDE: Android Studio / VS Code
 
 🎥 App Demo
 
-<h2 align="center">App Demo Video</h2>
-
-<p align="center">
-  <a href="images/demo.mp4">
-    <img src="images/video.mp4" width="400">
-  </a>
-</p>
+<video width="600" controls>
+  <source src="images/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>>
